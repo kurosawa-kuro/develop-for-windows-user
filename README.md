@@ -1,8 +1,8 @@
 # develop-for-windows-user
 
 Windows環境構築動画の作成
-1.開発ツールの準備
-./docs/1.開発ツールの準備/README.md
+[Windows環境構築動画](./docs/1.開発ツールの準備/README.md)
+
 Visual Studio Code (VSC): コード編集とデバッグのための軽量で強力なソースエディタ。
 DBeaver: データベース管理とSQL開発のための多機能グラフィカルツール。
 2.環境ライブラリのセットアップ
