@@ -1,6 +1,7 @@
 # develop-for-windows-user
 
-Windows環境構築動画の作成
+# Windows環境構築動画の作成
+
 [1.開発ツールの準備](./docs/1.開発ツールの準備/README.md)
 
 Visual Studio Code (VSC): コード編集とデバッグのための軽量で強力なソースエディタ。
